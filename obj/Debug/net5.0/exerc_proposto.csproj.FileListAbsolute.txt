@@ -1,0 +1,16 @@
+E:\Ensino Udemy\exercs\exerc_proposto\bin\Debug\net5.0\exerc_proposto.exe
+E:\Ensino Udemy\exercs\exerc_proposto\bin\Debug\net5.0\exerc_proposto.deps.json
+E:\Ensino Udemy\exercs\exerc_proposto\bin\Debug\net5.0\exerc_proposto.runtimeconfig.json
+E:\Ensino Udemy\exercs\exerc_proposto\bin\Debug\net5.0\exerc_proposto.runtimeconfig.dev.json
+E:\Ensino Udemy\exercs\exerc_proposto\bin\Debug\net5.0\exerc_proposto.dll
+E:\Ensino Udemy\exercs\exerc_proposto\bin\Debug\net5.0\ref\exerc_proposto.dll
+E:\Ensino Udemy\exercs\exerc_proposto\bin\Debug\net5.0\exerc_proposto.pdb
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\exerc_proposto.csprojAssemblyReference.cache
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\exerc_proposto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\exerc_proposto.AssemblyInfoInputs.cache
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\exerc_proposto.AssemblyInfo.cs
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\exerc_proposto.csproj.CoreCompileInputs.cache
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\exerc_proposto.dll
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\ref\exerc_proposto.dll
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\exerc_proposto.pdb
+E:\Ensino Udemy\exercs\exerc_proposto\obj\Debug\net5.0\exerc_proposto.genruntimeconfig.cache

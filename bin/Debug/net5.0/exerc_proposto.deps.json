@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "exerc_proposto/1.0.0": {
+        "runtime": {
+          "exerc_proposto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exerc_proposto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
